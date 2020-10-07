@@ -30,7 +30,7 @@ export default function App() {
     <View style={styles.screen}>
       <Button title="Add New Goal" onPress={() => setIsAddMode(true)} />
       <GoalInput
-        visable={isAddMode}
+        visible={isAddMode}
         onAddGoal={addGoalHandler}
         onCancel={cancelGoalAdditionHandler} />
       <FlatList
