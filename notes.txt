@@ -1,0 +1,11 @@
+### Module 3: Debugging React Native Apps ###
+
+Completed today (09/10/2020)
+Module Introduction
+What to Debug & How to Debug?
+Running the App on a Real Device & Debugging
+Handling Error Messages
+Understanding Code Flow with console.log()
+Using the Remote Debugger & Breakpoints
+Working with the Device DevTools Overlay
+Debugging the UI & Using React Native Debugger
